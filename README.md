@@ -91,3 +91,4 @@ common name of 'anchor-test.example.com' when prompted:
 
 If Anchor is correctly configured, the CA will return a certificate.
 
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
